@@ -63,7 +63,7 @@ def coordinatePesate(listaElem, listapesi):
         lat=float(latitudineStr)
         longit=float(longitudineStr)
         peso=listapesi[i]
-        senoLat=math.sin(math.radians(lat))#mi restituisce il seno in gradi 
+        senoLat=math.sin(math.radians(lat))
         cosenoLat=math.cos(math.radians(lat))
         senoLong=math.sin(math.radians(longit))
         cosenoLong=math.cos(math.radians(longit))
