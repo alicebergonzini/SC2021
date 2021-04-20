@@ -1,5 +1,5 @@
 # SC2021
-Software per il calcolo dello spazio cognitivo nei testi letterari
+Codice per il calcolo dello spazio cognitivo nei testi letterari
 
 Indicazioni per il corretto funzionamento del programma(da Linux):
 
