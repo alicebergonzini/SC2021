@@ -3,9 +3,9 @@ Codice per il calcolo dello spazio cognitivo nei testi letterari
 
 Indicazioni per il corretto funzionamento del programma(da Linux):
 
-necessario un file txt fatto a simil-tabella, per ogni riga il luogo, il numero di occorrenze, la latitudine e la longitudine. Questi devono essere divisi da spazi bianchi
+necessario un file txt fatto a simil-tabella, per ogni riga il luogo, il numero di occorrenze, la latitudine e la longitudine. Questi devono essere divisi da spazi bianchi.
 Si veda l'esempio nel repository "table.txt".
-Importante che le stringhe che rappresentano il luogo non presentino spazi bianchi e/o caratteri speciali (no caratteri accentati)
+Importante che le stringhe che rappresentano il luogo non presentino spazi bianchi e/o caratteri speciali (no caratteri accentati).
 es. "San Francisco" NO - "SanFrancisco" SI
 
 da riga di comando
